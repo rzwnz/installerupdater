@@ -1,0 +1,24 @@
+## .NET
+bin/
+obj/
+publish/
+*.user
+*.suo
+*.sln.docstates
+.vs/
+
+## Build output
+installer/output/
+
+## NuGet
+**/packages/
+*.nupkg
+
+## Test results
+TestResults/
+*.trx
+
+## IDE
+.idea/
+*.swp
+*~
